@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Emiliano Salvo
-Peple call me Emo.
+People call me Emo.
 
 I'm a systems engineer student. I studied computer engineer before.
 
