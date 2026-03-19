@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋, I'm Emiliano Salvo
+Peple call me Emo.
+I'm a systems engineer student. I studied computer engineer before.
+I’m currently working in BASF Services Americas as HR Automation Analyst. Developling automations and doing optimizations to HR processes.
 
 <!--
 **emiliano-salvo/emiliano-salvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
