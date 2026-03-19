@@ -1,6 +1,8 @@
 ## Hi there 👋, I'm Emiliano Salvo
 Peple call me Emo.
+
 I'm a systems engineer student. I studied computer engineer before.
+
 I’m currently working in BASF Services Americas as HR Automation Analyst. Developling automations and doing optimizations to HR processes.
 
 <!--
